@@ -233,8 +233,5 @@ This is the first blueprint that makes the sentence:
 Author
 
 HTP
-Twitter/X: https://x.com/AloName15
-
-Donate: https://buymeacoffee.com/chaoshtp
 
 Public domain — use freely.
