@@ -50,8 +50,6 @@ If biology, psychology, technology, and society co-evolve, then **divinity becom
 
 ## 🔗 Original Gist
 
-HTP Human Divinity Evolution Framework (v1) — [Gist Version](https://gist.github.com/ChaosGod208/d1bf3324bb36c791a797f3e69469d8c4)
-
 Full archive (100+ Frameworks): [ChaosGod208 gists](https://gist.github.com/ChaosGod208)
 ---
 
